@@ -1,10 +1,10 @@
 body {
-    background-color: red;
+    background-color: bisque;
     margin: 0;
 }
 .content-wrap {
     padding: 50px 100px;
-    background-color: crimson;
+    background-color: dodgerblue;
 }
 section {
     height: 300px;
