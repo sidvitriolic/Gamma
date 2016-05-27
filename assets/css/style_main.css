@@ -1,0 +1,20 @@
+body {
+    background-color: red;
+    margin: 0;
+}
+.content-wrap {
+    padding: 50px 100px;
+    background-color: crimson;
+}
+section {
+    height: 300px;
+}
+.head {
+    background-color: grey;
+}
+.mid {
+    background-color: #bbbbbb;
+}
+.footer {
+    background-color: #121212;
+}
